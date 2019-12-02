@@ -1,0 +1,57 @@
+{
+	"title": "大数据",
+	"author": "大数据攻略系列",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+	"description" : "大数据教程",
+    "plugins": [
+		"chapter-fold",
+		"back-to-top-button",
+		"pageview-count",
+		"copy-code-button",
+		"tbfed-pagefooter",
+		"-sharing", 
+		"sharing-plus",
+		"emphasize",
+		"prism",
+		"-highlight",
+		"hide-element"
+	],
+	"pluginsConfig": {
+		"hide-element": {
+            "elements": [".gitbook-link"]
+        },
+		"css": [
+          "prismjs/themes/prism-okaidia.css"
+        ],
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy yyburst.top 2019",
+            "modify_label": "该文章修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "sharing": {
+            "douban": true,
+            "facebook": true,
+            "google": true,
+            "pocket": true,
+            "qq": true,
+            "qzone": true,
+            "twitter": true,
+            "weibo": true,
+            "all": [
+                "douban",
+                "facebook",
+                "google",
+                "instapaper",
+                "linkedin",
+                "twitter",
+                "weibo",
+                "messenger",
+                "qq",
+                "qzone",
+                "viber",
+                "whatsapp"
+            ]
+        }
+    }
+}
