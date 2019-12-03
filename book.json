@@ -15,7 +15,8 @@
 		"emphasize",
 		"prism",
 		"-highlight",
-		"hide-element"
+        "hide-element",
+        "lightbox"
 	],
 	"pluginsConfig": {
 		"hide-element": {
