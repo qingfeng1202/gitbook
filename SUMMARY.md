@@ -3,8 +3,7 @@
 	    * [安装JDK](book/Java教程/Java入门/安装JDK.md)
 		* [第一个Java程序](book/Java教程/Java入门/第一个Java程序.md)
 		* [IDE](book/Java教程/Java入门/IDE.md)
-	* [Java基础](book/Java教程/Java入门/Java简介.md)
-
+	* [Java基础](book/Java教程/Java基础/Java基础.md)
 
 
 * [Web教程](README.md)
