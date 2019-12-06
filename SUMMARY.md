@@ -7,7 +7,17 @@
 		* [Java程序基本结构](book/Java教程/Java基础/Java程序基本结构.md)
 		* [变量和基本数据类型](book/Java教程/Java基础/变量和基本数据类型.md)
 		* [Java运算](book/Java教程/Java基础/Java运算.md)
-
+		* [字符串](book/Java教程/Java基础/字符串.md)
+		<!-- * [数组](book/Java教程/Java基础/数组.md) -->
+	* [Java流程控制](book/Java教程/Java流程控制/Java流程控制.md)
+		* [if判断](book/Java教程/Java流程控制/if判断.md)
+		* [switch多重选择](book/Java教程/Java流程控制/switch多重选择.md)
+		* [while循环](book/Java教程/Java流程控制/while循环.md)
+		* [do..while循环](book/Java教程/Java流程控制/do while循环.md)
+		* [for循环](book/Java教程/Java流程控制/for循环.md)
+		* [break和continue](book/Java教程/Java流程控制/break和continue.md)
+	* [Java面向对象](book/Java教程/Java基础/Java基础.md)
+	* [Java常用API](book/Java教程/Java基础/Java基础.md)
 
 * [Web教程](README.md)
 * [Spring教程](README.md)
