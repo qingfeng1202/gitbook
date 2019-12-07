@@ -1,5 +1,4 @@
-## 安装JDK
-Java程序必须运行在JVM之上
+## windows安装JDK
 
 ### JDK下载
 JDK下载地址：
@@ -46,6 +45,7 @@ https://www.oracle.com/technetwork/java/javase/downloads/index.html
 # 注意最前面有一点
 ```
 <img src="..\..\..\img\Java教程\Java入门\配置classpath.png" /><br>
+注：如果使用1.5以上版本的JDK，不用设置CLASSPATH环境变量，也可以正常编译和运行Java程序
 
 #### 检验是否配置成功<br>
 运行cmd 输入 
